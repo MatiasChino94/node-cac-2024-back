@@ -111,5 +111,4 @@ const borrarProducto = (req, res) => {
         crearProducto,
         modificarProductos, 
         borrarProducto
-
     }
